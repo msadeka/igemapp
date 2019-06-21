@@ -1,6 +1,6 @@
 # igemapp
 iGEM - International Genetically Engineered Machine - competition is organised by the MIT each year to promote research in Synthetic Biology. For more details about iGEM, please refer to this link: https://igem.org/About.
-In 2018, my team and I represented Carnegie Mellon University Qatar and worked on a project that has ensured faster diagnosis of genetic diseases, Sickle Cell Anemia in particular. Working with the software team, we designed our own iGEM website for general audience (http://2018.igem.org/Team:CMUQ). Additionally, I collaborated with the hardware subteam to develop an application that synchronises with a detection device and translates data to be easily understood by everyone. Later that year, we presented our project at the Giant Jamboree in Boston, Massachussets, USA.
+In 2018, my team and I represented Carnegie Mellon University Qatar and worked on a project that has ensured faster diagnosis of genetic diseases, Sickle Cell Anemia in particular. Partnering with the software team, I assisted in the backend coding of our own iGEM website (http://2018.igem.org/Team:CMUQ). Additionally, I collaborated with the hardware subteam to develop an application that synchronises with a detection device and translates data to be easily understood by everyone. Later that year, we presented our project at the Giant Jamboree in Boston, Massachussets, USA.
 
 
 Purpose of the Application
